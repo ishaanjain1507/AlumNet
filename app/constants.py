@@ -1,2 +1,2 @@
-MAIL = "chsuryasaketh@gmail.com"
-PASSWORD = "Alumnnet"
+MAIL = "enter your mail here"
+PASSWORD = "Enter your password here"
